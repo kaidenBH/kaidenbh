@@ -1,8 +1,6 @@
 <h1 align="center">Hi, my name is Haitem Bourahla</h1>
 <h3 align="center">I’m a Full-stack web developer.</h3>
 
-<p align="left"> <a href="https://twitter.com/haitem_breaks" target="blank"><img src="https://img.shields.io/twitter/follow/haitem_breaks?logo=twitter&style=for-the-badge" alt="haitem_breaks" /></a> </p>
-
 - 🌱 I’m currently learning **PHP, LARAVEL.**
 
 - 💬 Ask me about **MERN.**
