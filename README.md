@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haitem Bourahla</h1>
 <h3 align="center">I'm a Full-stack web developer.</h3>
 
-
-- 🌱 I’m currently learning **PHP, LARAVEL.**
-
-- 💬 Ask me about **MERN.**
+- 💬 Ask me about **MERN, LARAVEL**
 
 - 📫 How to reach me **haitem.bourahla7@gmail.com**
 
@@ -19,6 +16,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<a href="https://www.geeksforgeeks.org/php-tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/> </a> 
+<a href="https://laravel.com/docs/11.x" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typeScript" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> 
