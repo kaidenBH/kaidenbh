@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haitem Bourahla</h1>
-<h3 align="center">I'm a Full-stack web developer.</h3>
+<h3 align="center">I'm a Backend web developer.</h3>
 
 - 💬 Ask me about **MERN, LARAVEL**
 
